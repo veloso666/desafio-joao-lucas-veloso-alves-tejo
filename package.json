@@ -1,0 +1,20 @@
+{
+  "name": "desafio",
+  "version": "1.0.0",
+  "description": "desafio da START DB",
+  "main": "caixa-da-lanchonete.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "desafio",
+    "node.js"
+  ],
+  "author": "joão lucas veloso alves tejo",
+  "dependencies": {
+    "axios": "^1.4.0",
+    "jest": "^29.6.2",
+    "moment": "^2.29.4",
+    "mongodb": "^5.7.0"
+  }
+}
